@@ -24,3 +24,7 @@ This is a text-based user interface (TUI) WiFi manager written in Python. It all
 - f: Forget selected network
 - o: Turn WiFi on/off
 - q: Quit
+
+  ![wifi_manager_img](https://github.com/abdallahnatsheh/BEEPY-TUI-APPS/assets/29822416/ab680349-5d74-4a6d-bdc7-b50784b73028)
+
+
